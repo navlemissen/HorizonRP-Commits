@@ -1,2 +1,2 @@
 # HorizonRP-Commits
-Rework af våben damage
+Damage rework på våben
